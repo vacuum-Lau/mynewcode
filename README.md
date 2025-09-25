@@ -1,2 +1,2 @@
-# mynewcode
+# c class for sysu cs
 none
