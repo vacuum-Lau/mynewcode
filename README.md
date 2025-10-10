@@ -1,2 +1,2 @@
-# c class for sysu cs
-none
+# 蒟蒻记不住代码怎么写，开个仓库当笔记
+
